@@ -35,7 +35,7 @@
             <p class="book-details">Tahun Terbit : 2022</p>
           </div>
           <div class="button">
-          <a href="pinjam.php?id=1" class="btn">Pinjam</a>
+          <a href="login.php?id=1" class="btn">Pinjam</a>
           <a href="detail.php?id=1" class="btn">Detail</a>
           </div>
         </div>
@@ -49,7 +49,7 @@
             <p class="book-details">Tahun Terbit : 2018</p>
           </div>
           <div class="button">
-          <a href="pinjam.php?id=1" class="btn">Pinjam</a>
+          <a href="login.php?id=1" class="btn">Pinjam</a>
           <a href="detail.php?id=1" class="btn">Detail</a>
           </div>
         </div>
@@ -63,7 +63,7 @@
             <p class="book-details">Tahun Terbit : 2022</p>
           </div>
           <div class="button">
-          <a href="pinjam.php?id=1" class="btn">Pinjam</a>
+          <a href="login.php?id=1" class="btn">Pinjam</a>
           <a href="detail.php?id=1" class="btn">Detail</a>
           </div>
         </div>
@@ -77,7 +77,7 @@
             <p class="book-details">Tahun Terbit : 2017</p>
           </div>
           <div class="button">
-          <a href="pinjam.php?id=1" class="btn">Pinjam</a>
+          <a href="login.php?id=1" class="btn">Pinjam</a>
           <a href="detail.php?id=1" class="btn">Detail</a>
           </div>
         </div>
@@ -91,7 +91,7 @@
             <p class="book-details">Tahun Terbit : 2005</p>
           </div>
           <div class="button">
-          <a href="pinjam.php?id=1" class="btn">Pinjam</a>
+          <a href="login.php?id=1" class="btn">Pinjam</a>
           <a href="detail.php?id=1" class="btn">Detail</a>
           </div>
         </div>
