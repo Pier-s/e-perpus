@@ -35,8 +35,8 @@
             <p class="book-details">Tahun Terbit : 2022</p>
           </div>
           <div class="button">
-            <button class="btn">Pinjam</button>
-            <button class="btn">Detail</button>
+          <a href="pinjam.php?id=1" class="btn">Pinjam</a>
+          <a href="detail.php?id=1" class="btn">Detail</a>
           </div>
         </div>
         <div class="card">
@@ -49,8 +49,8 @@
             <p class="book-details">Tahun Terbit : 2018</p>
           </div>
           <div class="button">
-            <button class="btn">Pinjam</button>
-            <button class="btn">Detail</button>
+          <a href="pinjam.php?id=1" class="btn">Pinjam</a>
+          <a href="detail.php?id=1" class="btn">Detail</a>
           </div>
         </div>
         <div class="card">
@@ -63,8 +63,8 @@
             <p class="book-details">Tahun Terbit : 2022</p>
           </div>
           <div class="button">
-            <button class="btn">Pinjam</button>
-            <button class="btn">Detail</button>
+          <a href="pinjam.php?id=1" class="btn">Pinjam</a>
+          <a href="detail.php?id=1" class="btn">Detail</a>
           </div>
         </div>
         <div class="card">
@@ -77,8 +77,8 @@
             <p class="book-details">Tahun Terbit : 2017</p>
           </div>
           <div class="button">
-            <button class="btn">Pinjam</button>
-            <button class="btn">Detail</button>
+          <a href="pinjam.php?id=1" class="btn">Pinjam</a>
+          <a href="detail.php?id=1" class="btn">Detail</a>
           </div>
         </div>
         <div class="card">
@@ -91,12 +91,13 @@
             <p class="book-details">Tahun Terbit : 2005</p>
           </div>
           <div class="button">
-            <button class="btn">Pinjam</button>
-            <button class="btn">Detail</button>
+          <a href="pinjam.php?id=1" class="btn">Pinjam</a>
+          <a href="detail.php?id=1" class="btn">Detail</a>
           </div>
         </div>
       </div>
     </div>
-    <footer>&copy; Pier 2025. Hak Cipta Dilindungi.</footer>
+    <footer>&copy; Pier 2025. Hak Cipta Dilindungi. Made with <span style="color: red;">❤️</span> by pier.
+    </footer></footer>
   </body>
 </html>
