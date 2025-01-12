@@ -36,7 +36,7 @@ body {
   padding: 20px;
   height: 550px;
   margin: 20px auto;
-  background-color: white;
+  background-color: rgb(238, 0, 0);
   box-shadow: 0 0 10px rgb(100, 99, 99);
 }
 .library h2 {
