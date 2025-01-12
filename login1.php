@@ -10,7 +10,7 @@
     <div class="navbar">
       <div class="left">
         <a href="#"> Home </a>
-        <a href="#"> Buku </a>
+        <a href="buku.php"> Buku </a>
         <a href="#"> Tentang </a>
         <a href="#"> Kontak Kami </a>
       </div>
